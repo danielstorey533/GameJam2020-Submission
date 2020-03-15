@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/lgunn/source/repos/Game1/Game1/Content/Goobender Back.png","C:/Users/lgunn/source/repos/Game1/Game1/Content/bin/Windows/Goobender Back.xnb","TextureProcessor","Texture2DContent",181475,1048661,0.3282897
+"C:/Users/lgunn/source/repos/Game1/Game1/Content/Goobender Front.png","C:/Users/lgunn/source/repos/Game1/Game1/Content/bin/Windows/Goobender Front.xnb","TextureProcessor","Texture2DContent",143666,1048661,0.0359982
+"C:/Users/lgunn/source/repos/Game1/Game1/Content/pop.ogg","C:/Users/lgunn/source/repos/Game1/Game1/Content/bin/Windows/pop.xnb","SongProcessor","SongContent",7278,121,0.3711094
+"C:/Users/lgunn/source/repos/Game1/Game1/Content/Projectile.png","C:/Users/lgunn/source/repos/Game1/Game1/Content/bin/Windows/Projectile.xnb","TextureProcessor","Texture2DContent",94720,373513,0.375812
+"C:/Users/lgunn/source/repos/Game1/Game1/Content/Robot Back.png","C:/Users/lgunn/source/repos/Game1/Game1/Content/bin/Windows/Robot Back.xnb","TextureProcessor","Texture2DContent",172250,1048661,0.1396295
+"C:/Users/lgunn/source/repos/Game1/Game1/Content/Robot Front.png","C:/Users/lgunn/source/repos/Game1/Game1/Content/bin/Windows/Robot Front.xnb","TextureProcessor","Texture2DContent",123070,1048661,0.038883
+"C:/Users/lgunn/source/repos/Game1/Game1/Content/testsprite.png","C:/Users/lgunn/source/repos/Game1/Game1/Content/bin/Windows/testsprite.xnb","TextureProcessor","Texture2DContent",64170,4320085,0.9771841
